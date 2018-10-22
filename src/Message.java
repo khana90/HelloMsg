@@ -13,5 +13,6 @@ public class Message {
 
     public void setMsg(String msg) {
         this.msg = msg;
+       this.msg2=msg;
     }
 }
